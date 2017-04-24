@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/browser-kit": "^3.2",
+        "slim/slim": "^3.8"
+    }
+}
