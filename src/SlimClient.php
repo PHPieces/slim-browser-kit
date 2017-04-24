@@ -19,7 +19,7 @@ use Symfony\Component\BrowserKit\Request as BrowserKitRequest;
 use Symfony\Component\BrowserKit\Response as BrowserKitResponse;
 
 
-final class Slim extends Client
+class SlimClient extends Client
 {
     /**
      * @var App
